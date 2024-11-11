@@ -1,4 +1,4 @@
-#Machine Learning Insurance Prediction
+# Machine Learning Insurance Prediction
 
 This repository contains a Python-based machine learning model to predict whether a person will buy insurance based on their age and affordability. The model is built using TensorFlow/Keras and trained with a dataset containing information on customers’ age, affordability, and insurance purchasing behavior. The project demonstrates the basics of binary classification using a neural network, along with model evaluation using a confusion matrix.
 
