@@ -35,4 +35,4 @@ The FashionMNIST dataset consists of grayscale images (28x28) of 10 classes:
 - **Final Testing Accuracy**: 86.37%
 
 ## **Acknowledgements**
-I thank [FashionMNIST Dataset](https://github.com/zalandoresearch/fashion-mnist) for the dataset.
+I thank [FashionMNIST Dataset](https://github.com/zalandoresearch/fashion-mnist) for the dataset. I am also grateful to Alexander Amini and Ava Amini for providing all the resources for [MIT 6.S191: Introduction to Deep Learning](https://introtodeeplearning.com).
